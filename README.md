@@ -1,1 +1,4 @@
 # Introduction
+I’m Alejandro Lopez, a Senior Developer at Evil Corp LLC 💻. I spend my days building systems that actually work and keeping everything running smoothly ⚙️. Most of my time goes into designing scalable software, troubleshooting tricky bugs, and improving codebases so they’re easier for the team to work with. I also help with planning projects, reviewing code, and mentoring newer developers 🤝—I really enjoy seeing others grow and learning from them along the way.
+
+I like tackling complex problems and figuring out practical solutions that actually make a difference, whether it’s optimizing performance, automating tedious tasks, or finding ways to prevent issues before they happen 🚀. Outside of work, I’m constantly exploring new tools and technologies, trying to stay ahead of the curve, and occasionally diving into side projects just for fun 😎.
